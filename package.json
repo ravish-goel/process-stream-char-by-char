@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravish-goel/process-stream-char-by-char.git"
+  },
   "keywords": [],
   "author": "Ravish Goel <gravish316@gmail.com>",
   "license": "MIT",
