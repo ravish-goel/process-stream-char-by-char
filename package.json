@@ -1,6 +1,6 @@
 {
   "name": "process-stream-char-by-char",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility that process a ReadableStream instance character by character.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/ravish-goel/process-stream-char-by-char.git"
   },
-  "keywords": [],
+  "keywords": ["ChatGPT", "OpenAI", "ReadableStream"],
   "author": "Ravish Goel <ravish.goel@icloud.com>",
   "license": "MIT",
   "devDependencies": {
