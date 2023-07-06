@@ -24,7 +24,7 @@ exports.stringToReadableStream = (str) => {
     }
 }
 
-exports.processStreamCharbyChar = (inputStream: ReadableStream, callback) => {
+exports.processStreamCharbyChar = (inputStream, callback) => {
     try {
         //attach reader
         const reader = inputStream.getReader()
