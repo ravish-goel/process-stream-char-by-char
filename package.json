@@ -1,6 +1,6 @@
 {
   "name": "process-stream-char-by-char",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility that process a ReadableStream instance character by character.",
   "main": "index.js",
   "scripts": {
