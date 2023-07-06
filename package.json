@@ -1,0 +1,15 @@
+{
+  "name": "process-stream-char-by-char",
+  "version": "1.0.0",
+  "description": "A utility that process a ReadableStream instance character by character.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ravish Goel <gravish316@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.0"
+  }
+}
